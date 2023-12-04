@@ -126,7 +126,7 @@ h1{
     flex-direction:column;
     margin: .5rem;
     padding: 1rem;
-    background-color: #2bc38e;
+    /*background-color: #542bc3;*/
     color: white;
     border-radius: 1rem;
 }
